@@ -21,6 +21,6 @@ steps:
       from_secret: docker_password
     repo: adamatraken/harnesstest
     auto_tag: true
-    auto_tag_suffix: drone-build-2
+    auto_tag_suffix: drone-build
 
-# Bump 2
+# Bump 3
